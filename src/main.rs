@@ -8,7 +8,6 @@ use bevy::{
 };
 
 /// This example illustrates how to display uv coordinates on a mesh
-/// variable.
 fn main() {
     App::build()
         .add_plugins(DefaultPlugins)
